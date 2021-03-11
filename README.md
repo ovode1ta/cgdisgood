@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey there, this is my GitHub!
 
-<!--
-**cgdisgood/cgdisgood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some of my stats:  
+  
+![stats](https://github-readme-stats.vercel.app/api?username=cgdisgood&theme=dark)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cgdisgood&layout=compact&theme=dark)
 
-Here are some ideas to get you started:
+[Github](https://github.com/cgdisgood "lol youre already here") | [Personal site](https://cgd.pw/ "🚧 Under construction 🚧") | [Replit](https://repl.it/@cgdisgood)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on [a discord bot](https://mee9.dev "👾 My Discord bot")
+- 🌱 I’m currently learning Python, Golang, and Javascript
+- 😄 Pronouns: [He/Him](https://pronoun.is/he "My pronouns")
