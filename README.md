@@ -9,6 +9,6 @@ Here are some of my stats:
 
 
 
-- 🔭 I’m currently working on [a discord bot](https://mee9.dev "👾 My Discord bot")
+- 🔭 I’m currently working on [an image host](javascript:alert('no website yet') "👾 My Discord bot")
 - 🌱 I’m currently learning Python, Golang, and Javascript
 - 😄 Pronouns: [He/Him](https://pronoun.is/he "My pronouns")
