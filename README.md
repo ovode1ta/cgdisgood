@@ -2,7 +2,8 @@
 
 Here are some of my stats:  
   
-![stats](https://github-readme-stats.vercel.app/api?username=cgdisgood&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=cgdisgood&theme=dark)  
+  
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cgdisgood&layout=compact&theme=dark)
 
 [Github](https://github.com/cgdisgood "lol youre already here") | [Personal site](https://cgd.pw/ "🚧 Under construction 🚧") | [Replit](https://repl.it/@cgdisgood)
